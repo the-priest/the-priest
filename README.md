@@ -8,9 +8,8 @@ strongest thing search engines index about you.
 
 # the-priest
 
-**Offensive-security tool builder · self-taught · Ireland 🇮🇪**
-
-Chef turned hacker. I build my own suite of AI-powered security and Linux tooling — single-file, local-first, no cloud lock-in. Kali Linux / NetHunter on real hardware.
+**Offensive-security tool builder · self-taught · 
+I build my own suite of AI-powered security and Linux tooling — single-file,  Kali Linux / NetHunter on real hardware.
 
 🔭 **Featured: [Oracle5 — Kali](https://github.com/the-priest/oracle5)** — a local, loyal AI assistant that lives on your Linux box with hands on it. Multi-provider LLM, voice, desktop control, security auditing, self-improving sandboxed skills. An **OpenClaw / Hermes alternative** built for operators, not servers.
 
@@ -18,7 +17,6 @@ Chef turned hacker. I build my own suite of AI-powered security and Linux toolin
 - **Oracle5 / Kali** — local AI desktop assistant (GTK4), confirm-gated command execution, web + GitHub recon, voice in/out.
 - **Athena** — offensive-security AI agent (recon → findings, pentest task tree).
 - **Mainframe** — Wi-Fi audit / deauth tool (dual-band, PMF detection).
-- **Zeus / Nyx / Ares / Aegis** — OSINT, learning agent, read-only auditor, defensive guardian.
 
 ### Stack
 `Python` · `Bash` · `GTK4` · `Kali Linux` · `NetHunter` · LLM tooling (SiliconFlow / Groq) · offensive security · OSINT · Wi-Fi / SDR
