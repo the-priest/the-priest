@@ -11,10 +11,10 @@ strongest thing search engines index about you.
 **Offensive-security tool builder · self-taught · 
 I build my own suite of AI-powered security and Linux tooling — single-file,  Kali Linux / NetHunter on real hardware.
 
-🔭 **Featured: [Oracle5 — Kali](https://github.com/the-priest/oracle5)** — a local, loyal AI assistant that lives on your Linux box with hands on it. Multi-provider LLM, voice, desktop control, security auditing, self-improving sandboxed skills. An **OpenClaw / Hermes alternative** built for operators, not servers.
+🔭 **Featured: [Oracle5 — Kali](https://github.com/the-priest/oracle5)** — a  loyal AI assistant that lives on your Linux box with hands on it. Multi-provider LLM, voice, desktop control, security auditing, self-improving sandboxed skills. An **OpenClaw / Hermes alternative** built for operators, not servers.
 
 ### What I build
-- **Oracle5 / Kali** — local AI desktop assistant (GTK4), confirm-gated command execution, web + GitHub recon, voice in/out.
+- **Oracle5 / Kali** —  AI desktop assistant (GTK4), confirm-gated command execution, web + GitHub recon, voice in/out.
 - **Athena** — offensive-security AI agent (recon → findings, pentest task tree).
 - **Mainframe** — Wi-Fi audit / deauth tool (dual-band, PMF detection).
 
