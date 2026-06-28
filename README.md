@@ -13,10 +13,8 @@ I build my own suite of AI-powered security and Linux tooling — single-file,  
 
 🔭 **Featured: [Oracle5 — Kali](https://github.com/the-priest/oracle5)** — a  loyal AI assistant that lives on your Linux box with hands on it. Multi-provider LLM, voice, desktop control, security auditing, self-improving sandboxed skills. An **OpenClaw / Hermes alternative** built for operators, not servers.
 
-### What I build
+
 - **Oracle5 / Kali** —  AI desktop assistant (GTK4), confirm-gated command execution, web + GitHub recon, voice in/out.
-- **Athena** — offensive-security AI agent (recon → findings, pentest task tree).
-- **Mainframe** — Wi-Fi audit / deauth tool (dual-band, PMF detection).
 
 ### Stack
 `Python` · `Bash` · `GTK4` · `Kali Linux` · `NetHunter` · LLM tooling (SiliconFlow / Groq) · offensive security · OSINT · Wi-Fi / SDR
