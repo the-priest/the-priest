@@ -8,13 +8,13 @@ strongest thing search engines index about you.
 
 # the-priest
 
-**Offensive-security tool builder · self-taught · 
+**Just doing this for fun · 
 I build my own suite of AI-powered security and Linux tooling — single-file,  Kali Linux / NetHunter on real hardware.
 
-🔭 **Featured: [Oracle5 — Kali](https://github.com/the-priest/oracle5)** — a  loyal AI assistant that lives on your Linux box with hands on it. Multi-provider LLM, voice, desktop control, security auditing, self-improving sandboxed skills. An **OpenClaw / Hermes alternative** built for operators, not servers.
+🔭 **Featured: [Basilisk ](https://github.com/the-priest/Basilisk)** — a  loyal AI assistant that lives on your Linux box with hands on it. Multi-provider LLM, voice, desktop control, security auditing, self-improving sandboxed skills. An **OpenClaw / Hermes alternative** built for operators, not servers.
 
 
-- **Oracle5 / Kali** —  AI desktop assistant (GTK4), confirm-gated command execution, web + GitHub recon, voice in/out.
+- **Basilisk** —  AI desktop assistant (GTK4), confirm-gated command execution, web + GitHub recon, voice in/out.
 
 ### Stack
 `Python` · `Bash` · `GTK4` · `Kali Linux` · `NetHunter` · LLM tooling (SiliconFlow / Groq) · offensive security · OSINT · Wi-Fi / SDR
@@ -23,4 +23,4 @@ I build my own suite of AI-powered security and Linux tooling — single-file,  
 - 🛠️ Repos: <https://github.com/the-priest?tab=repositories>
 - ⭐ Start here: **[oracle5](https://github.com/the-priest/oracle5)**
 
-<sub>Keywords: kali linux, offensive security, ai agent, local ai assistant, openclaw alternative, hermes alternative, nethunter, pentesting tools, linux automation.</sub>
+<sub>Keywords: kali linux, offensive security, ai agent, personal ai assistant, openclaw alternative, hermes alternative, nethunter, pentesting tools, linux automation.</sub>
