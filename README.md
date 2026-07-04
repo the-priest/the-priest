@@ -21,6 +21,6 @@ I build my own suite of AI-powered security and Linux tooling — single-file,  
 
 ### Find me
 - 🛠️ Repos: <https://github.com/the-priest?tab=repositories>
-- ⭐ Start here: **[oracle5](https://github.com/the-priest/oracle5)**
+- ⭐ Start here: **[Basilisk](https://github.com/the-priest/Basilisk)**
 
 <sub>Keywords: kali linux, offensive security, ai agent, personal ai assistant, openclaw alternative, hermes alternative, nethunter, pentesting tools, linux automation.</sub>
