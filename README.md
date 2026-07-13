@@ -14,7 +14,7 @@ I build my own suite of AI-powered security and Linux tooling — single-file,  
 🔭 **Featured: [Basilisk ](https://github.com/the-priest/Basilisk)** — a  loyal AI assistant that lives on your Linux box with hands on it. Multi-provider LLM, voice, desktop control, security auditing, self-improving sandboxed skills. An **OpenClaw / Hermes alternative** built for operators, not servers.
 
 
-- **Basilisk** —  AI desktop assistant (GTK4), confirm-gated command execution, web + GitHub recon, voice in/out.
+- **Basilisk** —  AI desktop assistant (GTK4), web + GitHub recon, voice.
 
 ### Stack
 `Python` · `Bash` · `GTK4` · `Kali Linux` · `NetHunter` · LLM tooling (SiliconFlow / Groq) · offensive security · OSINT · Wi-Fi / SDR
